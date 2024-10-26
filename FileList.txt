@@ -1,0 +1,9 @@
+C:\18Bluntwrapz\ProjectRoot\.gitignore
+C:\18Bluntwrapz\ProjectRoot\Assets\Characters\Models\Player.obj
+C:\18Bluntwrapz\ProjectRoot\Assets\Environment\Models\Building.obj.txt
+C:\18Bluntwrapz\ProjectRoot\Docs\GameDesignDocument\GDD.docx
+C:\18Bluntwrapz\ProjectRoot\Docs\Storyline\Storyline.docx
+C:\18Bluntwrapz\ProjectRoot\Docs\UIUXDesign\UIDesign.docx
+C:\18Bluntwrapz\ProjectRoot\Scripts\Gameplay\CameraController.cs
+C:\18Bluntwrapz\ProjectRoot\Scripts\Gameplay\PlayerMovement.cs
+C:\18Bluntwrapz\ProjectRoot\Scripts\UI\InventoryMenu.cs
