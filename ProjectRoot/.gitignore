@@ -1,0 +1,18 @@
+# Ignore system files
+*.log
+*.tmp
+*.bak
+
+# Ignore hidden system files like DS_Store (macOS) or Thumbs.db (Windows)
+.DS_Store
+Thumbs.db
+
+# Ignore build artifacts
+/Builds/*
+
+# Ignore temporary files from Office or similar
+~$*.docx
+
+# Ignore backup files
+*.bak
+*.old

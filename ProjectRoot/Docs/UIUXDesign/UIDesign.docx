@@ -1,0 +1,22 @@
+. UI/UX Design
+HUD (Heads-Up Display):
+
+Health Bar: Displays in the top-left corner of the screen, indicating player health.
+Inventory: Accessible via a button on the bottom-right, showing crafting materials and pre-roll supplies.
+Minimap: Located in the bottom-left, showing key locations, current objective, and nearby enemies or NPCs.
+Menus:
+
+Main Menu:
+Options: New Game, Load Game, Settings, Exit.
+Visual Design: Gritty urban background of Langley with animated smoke effects.
+Pause Menu:
+Sections: Resume, Settings, Save/Load, Exit to Main Menu.
+Design: Simplified, with minimalistic text overlaid on a blurred background of the gameplay.
+Inventory and Crafting System:
+
+Inventory:
+Slots: Organized into categories like "Materials," "Pre-Rolls," and "Tools."
+Display: Each item has a visual icon and short description.
+Crafting UI:
+Sections: Select available materials, preview the final product, and confirm to craft.
+Design: Clean, with large buttons for easy navigation and clarity.
