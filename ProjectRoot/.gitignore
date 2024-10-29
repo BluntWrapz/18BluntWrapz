@@ -1,3 +1,7 @@
+# Ignore build and output directories
+/build/
+/dist/
+
 # Ignore system files
 *.log
 *.tmp
